@@ -7,5 +7,9 @@ My Swift playground, called Around the Solar System in 3 minutes, is a playgroun
 In my Swift playground, I used SwiftUI to construct many of the views for the user, because it is easy to use, it is a new technology and suited my needs to have a responsive UI. I also used ARKit and SceneKit to make the Planetary view, which shows the user all of the planets in our Solar System, in their current location. I used ARKit and SceneKit because they gave the playground more interaction and was easier to show the scale of all of the planets. Additionally, I used UIKit to make the AR View, because UIKit is easier to use when conforming to other protocols. 
 
 ## Created by Parineet Vernekar
-Twitter, Instagram : parineet_v
-LinkedIn : parineet-v
+<a href=”https://www.twitter.com/parineet-v/"><img align=”left” src=”https://raw.githubusercontent.com/ParineetVernekar/WWDC21-Playground/main/images/twitter.svg" alt=”icon | Twitter” width=”21px”/></a>
+
+<a href=”https://www.instagram.com/parineet_v"><img align=”left” src=”https://raw.githubusercontent.com/ParineetVernekar/WWDC21-Playground/main/images/instagram.svg" alt=”icon | Instagram” width=”21px”/></a>
+
+<a href=”https://www.linkedin.com/in/parineet-v/"><img align=”left” src=”https://raw.githubusercontent.com/ParineetVernekar/WWDC21-Playground/main/images/linkedin.svg" alt=”icon | LinkedIn” width=”21px”/></a>
+
