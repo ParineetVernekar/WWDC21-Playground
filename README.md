@@ -13,4 +13,4 @@ In my Swift playground, I used SwiftUI to construct many of the views for the us
 
 <a href=”https://www.linkedin.com/in/parineet-v/"><img align=”left” src=”https://raw.githubusercontent.com/ParineetVernekar/WWDC21-Playground/main/images/linkedin.svg" alt=”icon | LinkedIn” width=”21px”/></a>
 
-<a href = "https://www.twitter.com/parineet-v" <img align=”left” src=”https://raw.githubusercontent.com/ParineetVernekar/WWDC21-Playground/main/images/twitter.svg" alt=”icon | Twitter” width=”21px”/> </a> 
+<a href="twitter.com/parineet_v"> <img align=”left” src=”https://raw.githubusercontent.com/ParineetVernekar/WWDC21-Playground/main/images/twitter.svg" alt=”icon | Twitter” width=”21px”/> </a> 
