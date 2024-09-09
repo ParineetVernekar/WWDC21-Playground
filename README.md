@@ -1,5 +1,5 @@
 # WWDC21-Playground
-My WWDC21 Swift Student Challenge winning project
+My WWDC21 Swift Student Challenge winning project. I was one of 350 winners from across the world, winning at age 13.
 
 ## Features and Technologies in your Swift Playground
 My Swift playground, called Around the Solar System in 3 minutes, is a playground teaching the user all about space. There are 3 levels to the playground - Level 1 - the learning level, Level 2 - the quiz level, and Level 3 - the explore level. In Level 1, I used ARKit to make the view that shows the user each planet in our Solar System, which can be clicked on to learn about. After the user learns about at least one planet, I show the 'Next' button and store the names of the planets that the User clicks on in UserDefaults. In Level 2 - the quiz level, I use SwiftUI and the core basics of Swift to procure the questions based on the planets that the user clicked on. In Level 3 - The Explore Level, I used SwiftUI, UIKit and ARKit to make a similar view to Level 1, except with a custom planet that the user designs.
